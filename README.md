@@ -34,9 +34,6 @@ Online-Reservierung und Speisekarten-Verwaltung.
 - ✅ SEO-optimiert
 - ✅ DSGVO-konform
 
-## Live-Demo
-http://localhost/restaurant-altemuehle/wordpress/
-
 ## Installation
 1. XAMPP/WAMP Server starten
 2. Repository klonen
