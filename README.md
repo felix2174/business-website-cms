@@ -3,6 +3,16 @@
 
 ## Status
 ✅ WordPress Installation erfolgreich abgeschlossen
+✅ Custom Theme entwickelt 
+✅ Responsive Design implementiert
+✅ Navigation und Menü-System
+✅ Modern CSS (Flexbox, Grid, Gradients)
+
+## Live-Demo
+http://localhost/restaurant-altemuehle/wordpress/
+
+## Screenshots
+<img width="1920" height="1020" alt="grafik" src="https://github.com/user-attachments/assets/7aa5a27a-1bc8-470f-b014-fbbcb671d956" />
 
 ## Projektbeschreibung
 Vollständige Unternehmenswebsite für ein Restaurant mit Custom WordPress Theme, 
