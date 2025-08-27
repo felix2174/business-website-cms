@@ -12,7 +12,7 @@
 http://localhost/restaurant-altemuehle/wordpress/
 
 ## Screenshots
-<img width="1920" height="1020" alt="grafik" src="https://github.com/user-attachments/assets/7aa5a27a-1bc8-470f-b014-fbbcb671d956" />
+<img width="1851" height="811" alt="grafik" src="https://github.com/user-attachments/assets/a0425777-ae5f-4041-90a5-eeb3e22f1260" />
 
 ## Projektbeschreibung
 Vollständige Unternehmenswebsite für ein Restaurant mit Custom WordPress Theme, 
